@@ -1,0 +1,10 @@
+{
+  "test_used": "\u041a\u0440\u0438\u0442\u0435\u0440\u0438\u0439 \u0423\u0438\u043b\u043a\u043e\u043a\u0441\u043e\u043d\u0430",
+  "test_statistic": 131.5,
+  "p_value": 0.06551516801118851,
+  "effect_size": 0.411424333939763,
+  "mean_diff": 3.006896551724138,
+  "ci_lower": 0.2268901583587768,
+  "ci_upper": 5.7869029450894995,
+  "conclusion": "not effective"
+}
